@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://Hiro_Itadori:JFb2Z3cnSE11QvLA@atlasmd.oeqacpn.mongodb.net/?retryWrites=true&w=majority
+PREFIX=+
+MODS=265990169520, 2349159807687
+CLIENT_ID=imgur_client_id
+CLIENT_SECRET=imgur_client_secret
